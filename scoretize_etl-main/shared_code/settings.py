@@ -1,0 +1,9 @@
+import os
+
+
+AZURE_STORAGE = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
+SERVER = os.getenv("SERVER_NAME")
+DATABASE = os.getenv("DATABASE")
+USERNAME = os.getenv("DATABASE_USERNAME")
+PASSWORD = os.getenv("DATABASE_PASSWORD")
+ENDPOINT = os.getenv("ENDPOINT")
