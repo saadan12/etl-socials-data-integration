@@ -1,0 +1,10 @@
+.venv
+.vscode
+.python_packages
+__pycache__
+.DS_Store
+.funcignore
+.gitattributes
+env
+
+local.settings.json
